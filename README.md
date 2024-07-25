@@ -34,6 +34,69 @@ Esto es debido a que es la encargada de convertir la corriente alterna (AC) en c
 
 ![alt text](<Captura de pantalla 2024-07-24 201348.png>)
 
+# Respuesta a cuestionario
+
+-1
+-
+-CPU: interpretar las instrucciones de un programa informático mediante operaciones básicas aritméticas lógicas y externas.
+
+-RAM: guarda de forma temporal los programas y sus procesos de ejecución.
+
+-Almacenamiento HDD y SSD: sirve para almacenar de forma permanente tus datos. Y el SSD almacena los archivos en microchips con memorias flash interconectadas entre sí.
+
+-Placa madre: tarjeta de circuito impreso a la que se conectan los componentes que constituyen la computadora.
+
+-Dispositivos de entrada y salida: proporcionan información visual, auditiva o física en el caso de una impresión, que la computadora interpreta y proyecta.
+
+-Buses de datos y dirección: Un bus es una trayectoria por la cual viajan los datos en una computadora para comunicar los distintos dispositivos entre sí. 
+
+-Sistema operativo: es el conjunto de programas de un sistema informático que gestiona los recursos del hardware y provee servicios a los programas de aplicación de software. 
+
+-Fuente de poder: es la encargada de convertir la corriente alterna (AC) en corriente continua (DC), la forma de energía que los ordenadores necesitan para funcionar. 
+
+-Softwares de desarrollo: proceso de crear y diseñar programas o aplicaciones informáticas mediante la escritura de código, diseño, pruebas y mantenimiento.
+
+-2
+-
+
+El Hardware y el Software interacctuan entre ellos de manera que si abres un programa el Hardware lee el codigo desde ell disco duro, la memoria RAM lo carga y el CPU es el encargado de llevar a cabo las acciones.
+
+El software proporciona las instrucciones y reglas que permiten al hardware realizar tareas específicas, el software se puede desarrollar en distintos sistemas operativos como Windows, macOS o Linux.
+
+El Hardware es responsable de realizar tareas físicas y electrónicas, como procesar datos, almacenar información, enviar y recibir datos a través de periféricos, etc.
+
+-3
+-
+El CPU es responsable de ejecutar programas y realizar cálculos. Su función principal es procesar datos y ejecutar instrucciones de software. 
+
+Las partes mas importantes del CPU son las encargadas de coordinar los procesos a seguir, lograr realizar operaciones logicas y aritmeticas con el propósito de cumplir todas las tareas que sean necesarias hacer. Ademas de tener una memoria a corto plazo sobre los procesos que se hagan en el sistema para mantener un pequeño registro sobre los cambios más recientes.
+
+-4
+-
+La velocidad de la CPU se refiere a pulsos electricos que emite para coordinar y acelerar los procesos a realizar, esta velocidad se mide en hercios. Esta velocidad dependerá de la calidad de la CPU y la capacidad de la pantalla del dispositivo para recibirlos y asi lograr que los procesos en pantalla se vean y sean más fluidos.
+
+-5
+-
+
+### Proceso de arranque.
+
+Al presionar el botón de encendido, la fuente de alimentación suministra electricidad a todos los componentes de la computadora.
+La placa base (motherboard) envía una señal de encendido a la unidad central de procesamiento (CPU).
+
+La CPU realiza una serie de comprobaciones iniciales conocidas como POST (Power-On Self-Test). Durante el POST, se verifican componentes críticos como la memoria RAM, la placa base, los dispositivos de almacenamiento (discos duros, SSDs), y otros periféricos conectados como teclados y ratones. Si el POST detecta algún problema, puede mostrar mensajes de error o emitir pitidos audibles para indicar el tipo de problema encontrado.
+
+Después de completar el POST con éxito, la CPU carga la configuración inicial de la BIOS (Basic Input/Output System) o UEFI (Unified Extensible Firmware Interface) desde un chip de memoria especial en la placa base.
+La BIOS/UEFI es un firmware básico que proporciona la interfaz entre el hardware de la computadora y el software del sistema operativo.
+
+La BIOS/UEFI busca y carga el cargador de arranque (boot loader) desde el dispositivo de almacenamiento principal (generalmente un disco duro o SSD) donde está instalado el sistema operativo. Una vez cargado el cargador de arranque, éste carga el kernel del sistema operativo en la memoria RAM. 
+
+El kernel es la parte central del sistema operativo que gestiona los recursos del hardware y proporciona servicios básicos.
+Se inicia un proceso de inicialización del sistema operativo que configura controladores de dispositivos, servicios esenciales y otros componentes del sistema.
+
+-6
+-
+Algo de todo este proceso que desconocia por completo era el uso de lo que llaman Buses de datos y dirección. Tambien desconocia el paso a paso de el inicio del computador y el hecho de que a la vez que enciende tiene la capacidad de hacer un auto diagnostico sobre problemas que pueda tener el dispositivo y advertirnos acerca de cualquier irregularidad.
+-
 # Bibliografia
 
 -https://www.xataka.com/basics/hdd-vs-ssd#:~:text=Los%20discos%20duros%2C%20tambi%C3%A9n%20conocidos,almacenados%20por%20la%20memoria%20RAM.
@@ -53,3 +116,5 @@ Esto es debido a que es la encargada de convertir la corriente alterna (AC) en c
 -https://www.opirata.com/blog/fuente-de-alimentacion-partes-y-tipos/#:~:text=La%20fuente%20de%20alimentaci%C3%B3n%2C%20abreviada,los%20ordenadores%20necesitan%20para%20funcionar.
 
 -https://www.starkcloud.com/starkcloud-blog/cloud/que-es-el-desarrollo-de-software#:~:text=El%20desarrollo%20de%20software%20es,funcional%20y%20de%20alta%20calidad
+
+-https://www.profesionalreview.com/2023/07/02/proceso-arranque-pc/
