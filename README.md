@@ -23,6 +23,16 @@ Buses del sistema. Los buses del micro-procesador tienen la trayectoria de comun
 datos entre la CPU y el bus principal, o entre la CPU y el Caché. Corresponden con los
 buses de direcciones, de datos y de control.
 
+- **Sistema operativo**: es el conjunto de programas de un sistema informático que gestiona los recursos del hardware y provee servicios a los programas de aplicación de software. Uno de los propósitos del sistema operativo que gestiona el núcleo intermediario consiste en gestionar los recursos de localización y protección de acceso del hardware, hecho que alivia a los programadores de aplicaciones de tener que tratar con estos detalles. 
+
+- **Fuente de poder**: La fuente de alimentación, abreviada como PSU y conocida también como fuente de poder, es imprescindible para el funcionamiento de un PC.
+Esto es debido a que es la encargada de convertir la corriente alterna (AC) en corriente continua (DC), la forma de energía que los ordenadores necesitan para funcionar. Por esta razón, a diferencia de algunos componentes del hardware, como puede ser un disco SSD, este dispositivo es una pieza crucial, que no puede faltar.
+ 
+  La fuente de poder está montada en la parte trasera de la caja, o chasis, del ordenador.
+
+- **Softwares de desarrollo**: es el proceso de crear y diseñar programas o aplicaciones informáticas mediante la escritura de código, diseño, pruebas y mantenimiento. Este proceso implica una serie de pasos e instrucciones que los desarrolladores siguen para crear software funcional y de alta calidad. 
+
+![alt text](<Captura de pantalla 2024-07-24 201348.png>)
 
 # Bibliografia
 
@@ -37,3 +47,9 @@ buses de direcciones, de datos y de control.
 -https://www.ceupe.com/blog/periferico.html#:~:text=Tipos%20de%20perif%C3%A9ricos%20de%20computadora&text=Perif%C3%A9ricos%20de%20entrada%3A%20Aquellos%20que,sistema%20inform%C3%A1tico%20hacia%20el%20exterior.
 
 -https://aulavirtual.sld.cu/pluginfile.php/6323/mod_imscp/content/1/sistema-de-buses-en-un-computador.pdf
+
+-https://es.wikipedia.org/wiki/Sistema_operativo
+
+-https://www.opirata.com/blog/fuente-de-alimentacion-partes-y-tipos/#:~:text=La%20fuente%20de%20alimentaci%C3%B3n%2C%20abreviada,los%20ordenadores%20necesitan%20para%20funcionar.
+
+-https://www.starkcloud.com/starkcloud-blog/cloud/que-es-el-desarrollo-de-software#:~:text=El%20desarrollo%20de%20software%20es,funcional%20y%20de%20alta%20calidad
