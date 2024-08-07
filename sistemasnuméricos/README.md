@@ -6,8 +6,8 @@
 
 -Es importante el uso de bits al inicio y final de cada numero para identificar su paridad sañalar su dirección y su signo.
 
-![alt text](Ejemplo1Binarios.png)
+![alt text](Ejemplo1.png)
 
 ![alt text](Ejemplo2.png)
 
-![alt text](Ejemplo3-1.png)
+![alt text](Ejemplo3.png)
