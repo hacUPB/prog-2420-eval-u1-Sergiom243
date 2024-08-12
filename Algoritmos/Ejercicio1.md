@@ -53,8 +53,38 @@ inicio
             CH>10 entonces el ct=0 y el p=2 por cada hora
                 entonces si CH=12 el p=24
         fin si
+        Imprimir resultado
     fin
 ```
-
-        
-        
+``` 
+Inicio
+    Insertar "CN"
+    Leer CN
+Sumar la cantidad de notas y divirlas por la cantidad de notas
+    Leer resultado
+Si
+    Resultado es >=3.0
+        Entoces Aprobó los examenes finales 
+    Si no 
+    Resultado es <3.0
+        Entonces reprobó los examenes finales
+Imprimir resultado
+Fin si 
+Fin
+```
+```
+Inicio  
+    Insertar "DNI"
+        Leer "DNI"
+Para saber si es válido sumamos los dígitos del DNI
+Si
+    al sumar los números el resultado debe ser múltiplo de 10
+Si
+    Resultado es multiplo de 10 el DNI es válido
+Si no
+    Resultado no es múltiplo de 10 el DNI no es válido
+Imprimir resultado
+    Fin si
+    Fin si
+Fin 
+``` 
