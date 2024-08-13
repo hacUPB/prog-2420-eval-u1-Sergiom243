@@ -29,6 +29,7 @@ inicio
         fin si
     fin
 ```
+Ejemplo de clase.
 ```
 inicio
     leer CH
@@ -56,6 +57,9 @@ inicio
         Imprimir resultado
     fin
 ```
+Ejercicio #2
+ 
+Determinar el promedio de calificaciones de un estudiante y si ha aprobado o no
 ``` 
 Inicio
     Insertar "CN"
@@ -72,6 +76,9 @@ Imprimir resultado
 Fin si 
 Fin
 ```
+Ejercicio #3
+
+Determinar si un número de identificación (como un DNI) es válido utilizando una fórmula de verificación
 ```
 Inicio  
     Insertar "DNI"
